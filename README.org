@@ -4,6 +4,6 @@ A linear algebra library for Common Lisp
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/linear-algebra.git |
-| commit  | 08f5b57                                             |
+| commit  | 8c9271f                                             |
 | systems | linear-algebra                                      |
 |---------+-----------------------------------------------------|
