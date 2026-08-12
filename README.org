@@ -7,3 +7,4 @@ A linear algebra library for Common Lisp
 | commit  | b6d0687                                             |
 | systems | linear-algebra                                      |
 |---------+-----------------------------------------------------|
+ 
